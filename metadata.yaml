@@ -1,0 +1,47 @@
+_repo: Marseljeesi-b-Romaani-Ranskan-vallankumouksesta_73968
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kivimäki, Urho
+    alias: Kivimaki, Urho
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '32243'
+    url: http://www.gutenberg.org/2009/agents/32243
+    wikipedia: https://fi.wikipedia.org/wiki/Urho_Kivim%C3%A4ki
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: 'Sequel to Kansanmies, #73947.'
+gutenberg_issued: '2024-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73968'
+language: fi
+pgterms:marc905: 20240617072904dumas
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Marseljeesi : $b Romaani Ranskan vallankumouksesta'
+url: http://www.gutenberg.org/ebooks/73968
